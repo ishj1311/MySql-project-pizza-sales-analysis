@@ -53,5 +53,5 @@ Before running the queries, ensure you have:
    Clone this repository to your local machine to access the SQL queries.
 
    ```bash
-   git clone https://github.com/yourusername/pizza-sales-data-analysis.git
+   git clone https://github.com/ishj1311/MySql-project-pizza-sales-analysis.git
 
